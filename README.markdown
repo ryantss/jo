@@ -1,3 +1,3 @@
 # JoSQL
 
-[Please read Wiki page](http://example.com/)
+[Please read Wiki page](http://github.com/phungleson/jo/wiki)
